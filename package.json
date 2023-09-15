@@ -1,0 +1,20 @@
+{
+  "name": "mongoose-practice",
+  "version": "1.0.0",
+  "description": "Practice on Mongoose Methods",
+  "main": "server.js",
+  "scripts": {
+    "test": "NA",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivharakhYadav/Mongoose-Practice.git"
+  },
+  "author": "Shivharaakh Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivharakhYadav/Mongoose-Practice/issues"
+  },
+  "homepage": "https://github.com/ShivharakhYadav/Mongoose-Practice#readme"
+}
